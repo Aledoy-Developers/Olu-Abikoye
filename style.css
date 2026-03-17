@@ -795,7 +795,6 @@ html {
 .form {
   width: 100% !important;
   height: auto !important;
-  top: auto !important;
   left: auto !important;
   opacity: 1;
   padding: 40px 20px 60px 20px;
@@ -1021,7 +1020,7 @@ footer a:hover {
     border-bottom: 1px solid whitesmoke;
   } */
   .contact-section {
-    margin-top: 200px !important;
+    margin-top: 100px !important;
   }
 }
 
@@ -1152,9 +1151,9 @@ footer a:hover {
 
 .timeline-heading {
   font-family: Montserrat;
-  font-weight: 500;
+  font-weight: 600;
   font-style: Medium;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 100%;
   letter-spacing: 0%;
   margin-bottom: 16px;
@@ -1186,9 +1185,7 @@ footer a:hover {
 }
 
 @media (min-width: 1000px) {
-  footer {
-    margin-top: 100px;
-  }
+ 
   .hero-section {
     margin-top: 150px;
   }
