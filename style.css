@@ -769,7 +769,7 @@ html {
   align-self: flex-start; 
 }
 
-/* FIX: blog card fixed height: 50vh causes overflow on mobile */
+
 @media (max-width: 767px) {
   .blog-card > div[style] {
     height: auto !important;
@@ -1020,7 +1020,7 @@ footer a:hover {
     border-bottom: 1px solid whitesmoke;
   } */
   .contact-section {
-    margin-top: 100px !important;
+    margin-top: 50px !important;
   }
 }
 
