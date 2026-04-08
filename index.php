@@ -17,16 +17,16 @@
 <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
   <div class="container">
-    <a class="logo" href="index.html"><img src="images/toyosi logo 2.png" alt=""></a>
+    <a class="logo" href="index.php"><img src="images/toyosi logo 2.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navMenu">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="blog.html">My Journey</a></li>
-        <li class="nav-item"><a class="nav-link" href="blog.html">Dear Diary</a></li>
+        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="blog.php">My Journey</a></li>
+        <li class="nav-item"><a class="nav-link" href="blog.php">Dear Diary</a></li>
       </ul>
     </div>
   </div>
@@ -93,7 +93,7 @@
         <h2 class="mb-3 what">WHAT I DO</h2>
         <div class="strat"></div>
         <p class="legal">I provide strategic legal solutions designed to help businesses grow confidently, stay compliant, and operate with strong legal protection.</p>
-        <a href="#"><button class="expert mt-4">Book a free Consultation</button></a>
+        <a href="#contact"><button class="expert mt-4">Book a free Consultation</button></a>
       </div>
       <div class="col-lg-8">
         <div class="row g-4 mt-4">
@@ -381,7 +381,7 @@
     <div class="container">
       <div class="row g-5">
         <div class="col-lg-4">
-          <a href="index.html" class="logo d-block mb-3"><img src="images/toyosi logo 2.png" alt=""></a>
+          <a href="index.php" class="logo d-block mb-3"><img src="images/toyosi logo 2.png" alt=""></a>
           <p class="driven">I am a results-driven Business Lawyer committed to helping organizations build strong legal foundations, manage risk, and achieve sustainable growth.</p>
           <div class="social-icons mt-3">
             <img src="images/facebook.png" alt="">
@@ -393,10 +393,10 @@
         </div>
         <div class="col-md-4 col-5 col-lg-2">
           <h6>Quicklinks</h6>
-          <a href="index.html">Home</a>
-          <a href="blog.html">Dear Diary</a>
-          <a href="about.html">About</a>
-          <a href="blog.html">My Journey</a>
+          <a href="index.php">Home</a>
+          <a href="blog.php">Dear Diary</a>
+          <a href="about.php">About</a>
+          <a href="blog.php">My Journey</a>
         </div>
         <div class="col-md-4 col-lg-3 col-7">
           <h6>Services</h6>
